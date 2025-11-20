@@ -1,0 +1,62 @@
+[
+  {
+    "id": "r1",
+    "name": "Spice Garden",
+    "cuisine": "Indian",
+    "rating": 4.4,
+    "costForTwo": 800,
+    "deliveryTimeMin": 30
+    ,"menu": [
+      { "id": "m1", "name": "Butter Chicken", "price": 280, "desc": "Creamy tomato gravy with tender chicken" },
+      { "id": "m2", "name": "Paneer Tikka", "price": 220, "desc": "Smoky grilled paneer with spices" }
+    ]
+  },
+  {
+    "id": "r2",
+    "name": "Noodle Hut",
+    "cuisine": "Chinese",
+    "rating": 4.1,
+    "costForTwo": 600,
+    "deliveryTimeMin": 25
+    ,"menu": [
+      { "id": "m3", "name": "Veg Hakka Noodles", "price": 180, "desc": "Stir-fried noodles with fresh veggies" },
+      { "id": "m4", "name": "Manchurian", "price": 200, "desc": "Crispy veg balls in tangy sauce" }
+    ]
+  },
+  {
+    "id": "r3",
+    "name": "Pizza Corner",
+    "cuisine": "Italian",
+    "rating": 4.6,
+    "costForTwo": 1000,
+    "deliveryTimeMin": 35
+    ,"menu": [
+      { "id": "m5", "name": "Margherita", "price": 350, "desc": "Classic cheese & tomato" },
+      { "id": "m6", "name": "Pepperoni", "price": 450, "desc": "Pepperoni and cheese" }
+    ]
+  },
+  {
+    "id": "r4",
+    "name": "Green Salad",
+    "cuisine": "Healthy",
+    "rating": 4.0,
+    "costForTwo": 500,
+    "deliveryTimeMin": 20
+    ,"menu": [
+      { "id": "m7", "name": "Caesar Salad", "price": 240, "desc": "Romaine lettuce with Caesar dressing" },
+      { "id": "m8", "name": "Quinoa Bowl", "price": 300, "desc": "Quinoa with roasted veggies" }
+    ]
+  },
+  {
+    "id": "r5",
+    "name": "Sushi House",
+    "cuisine": "Japanese",
+    "rating": 4.7,
+    "costForTwo": 1500,
+    "deliveryTimeMin": 40
+    ,"menu": [
+      { "id": "m9", "name": "California Roll", "price": 420, "desc": "Crab, avocado and cucumber" },
+      { "id": "m10", "name": "Salmon Nigiri", "price": 520, "desc": "Fresh salmon over rice" }
+    ]
+  }
+]
